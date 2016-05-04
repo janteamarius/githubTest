@@ -5,3 +5,5 @@ Stashed changes
 abc
 
 v2 changes
+
+additional changes in v2
